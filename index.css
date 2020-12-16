@@ -1,0 +1,31 @@
+h1,
+h2,
+h3 {
+    color: cadetblue;
+    font-size: 14px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.mammals { padding-left: 30px; padding-right:30px; color: red; font-weight: bold;
+}
+.birds {padding-top: 30px; padding-bottom: 40px; color: blue; font-style: italic;
+}
+.fish { padding: 30px; margin-top: 40px; color: orange; text-decoration: underline;}
+.list-one {background-color: limegreen;}
+.important { 
+    color= blue
+}
+.non-important {
+    color= green
+}
+a {
+    color: green;
+}
+a:hover {color: red;
+    text-decoration: underline;;
+}
+
+}
+
+body {
+    color: magenta;
+}
